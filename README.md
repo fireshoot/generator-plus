@@ -19,7 +19,7 @@
 
 <font color ="red">因为我还没有发到Maven的中央仓库，所以会找不到。jar包下载地址：</font>
 
-https://github.com/fireshoot/generator-plus/blob/master/jar/yangxin.rar。
+jar目录下的压缩文件
 
 下载后，将压缩文件加压放到：C:\Users\用户\.m2\repository\com 目录下
 
